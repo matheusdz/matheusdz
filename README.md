@@ -9,9 +9,9 @@
 </div>
 
 ### Main skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)&nbsp;
 ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
@@ -19,12 +19,10 @@
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=90ee90&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-E34F26?logo=linux&logoColor=black&style=for-the-badge)&nbsp;
+![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-017AD7?logo=windows&logoColor=white&style=for-the-badge)&nbsp;
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
